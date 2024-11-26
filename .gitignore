@@ -1,0 +1,35 @@
+# Node.js modules
+node_modules/
+
+# Logs
+*.log
+
+# npm debug file
+npm-debug.log*
+
+# Environment files
+.env
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Coverage directory (jest, etc.)
+coverage/
+
+# Build directories
+dist/
+build/
+
+# IDE specific files
+.vscode/
+.idea/
+
+# Dependency directories
+jspm_packages/
+
+# Yarn lock file (optional, if you're using npm instead)
+yarn.lock
+
+# Next.js build output (optional, jika menggunakan Next.js)
+.next/
